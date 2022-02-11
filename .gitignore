@@ -1,3 +1,6 @@
 # Folders
 .road_venv
 data/
+
+# Files
+.*
