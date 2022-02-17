@@ -1,6 +1,8 @@
 # Folders
 .road_venv/
 data/
+venv/
 
 # Files
 .env
+
